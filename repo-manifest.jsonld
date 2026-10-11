@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/psf-tuf-runbook/commit/01ff5b2b82dbe51695ed898153b63d7a0cfc1921",
       "git:hexsha": "01ff5b2b82dbe51695ed898153b63d7a0cfc1921",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T22:40:11.098056+00:00"
     },
     {
       "@id": "https://repolex.ai/r/psf/psf-tuf-runbook/commit/ed831d43d7d53675c409768a5089151f430a1069",
